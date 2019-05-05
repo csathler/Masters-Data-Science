@@ -23,3 +23,16 @@ Section 15 - Radar Case Study
 ## Course Website
 
 https://bdaafall2016.readthedocs.io/en/latest/index.html
+
+## Key Assignments and Projects
+
+### Course Project 
+
+Data Analysis of Interaction Dynamics for Persuasion - Final Report
+Data Analysis of Interaction Dynamics for Persuasion - Project Proposal
+
+### Short papers
+
+What is Big Data
+The Role of Big Data in Health Sciences
+Applications of Big Data in Sports
