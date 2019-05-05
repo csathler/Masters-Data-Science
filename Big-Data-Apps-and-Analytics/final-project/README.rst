@@ -6,9 +6,9 @@ Contents of this folder
 +================+=============================================================================+ 
 | proposal.tex   | Proposal document in tex format created in ShareLaTeX (www.sharelatex.com)  |
 +----------------+-----------------------------------------------------------------------------+ 
-| proposal.pdf   | PDF version of proposal.tex                                                 | 
+| proposal.pdf   | PDF version of proposal                                                     | 
 +----------------+-----------------------------------------------------------------------------+ 
-| references.bib | References file from JabRef 3.5                                             |
+| report.pdf     | PDF version of final report                                                 |
 +----------------+-----------------------------------------------------------------------------+ 
 
 
