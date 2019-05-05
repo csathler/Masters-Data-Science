@@ -1,0 +1,13 @@
+setuptools
+Numpy
+python-dateutil==2.2
+pytz
+Scipy
+xarray
+matplotlib
+matplotlib[mplot3d]
+wget
+pandas
+seaborn
+sklearn
+sklearn-pandas
