@@ -5,7 +5,7 @@ This repository contains key reports, assignments and code produced as part of m
 | Course  | Grade |
 |---|---|
 | [Big Data Application and Analytics](https://github.com/csathler/Masters-Data-Science/tree/master/Big-Data-Apps-and-Analytics) | A |
-| Management, Access, and Use of Big Data  |   A+  |
+| [Management, Access, and Use of Big Data](https://github.com/csathler/Masters-Data-Science/tree/master/Management-Access-Use-of-Big-Data)  |   A+  |
 | Applied Machine Learning  |  A  |
 | Statistical Analysis for Effective Decision Making | A |
 | Data Science Project Club |  A  |
