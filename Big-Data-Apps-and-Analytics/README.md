@@ -24,8 +24,9 @@ Section 15 - Radar Case Study
 
 ### Course Project 
 
-[Data Analysis of Interaction Dynamics for Persuasion - Final Report](https://github.com/csathler/Masters-Data-Science/blob/master/Big-Data-Apps-and-Analytics/final-project/report.pdf)   
 [Data Analysis of Interaction Dynamics for Persuasion - Project Proposal](https://github.com/csathler/Masters-Data-Science/blob/master/Big-Data-Apps-and-Analytics/final-project/proposal.pdf)   
+[Data Analysis of Interaction Dynamics for Persuasion - Final Report](https://github.com/csathler/Masters-Data-Science/blob/master/Big-Data-Apps-and-Analytics/final-project/report.pdf)   
+[Project Code](https://github.com/csathler/Masters-Data-Science/tree/master/Big-Data-Apps-and-Analytics/final-project/Code)
 
 ### Short papers
 
