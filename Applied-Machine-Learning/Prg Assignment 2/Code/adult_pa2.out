@@ -1,0 +1,128 @@
+
+RESULTS FOR SVM CLASSIFIER
+--------------------------
+Best pre-processing option: 4
+Best C = 1
+
+
+           TRAIN DATASET RESULTS
+           Accuracy........: 0.851
+           Precision Score.: 0.759
+           Recall Score....: 0.591
+           F1 Score........: 0.665
+           ROC AUC.........: 0.764
+
+           Confusion Matrix:
+           +----------------------------+
+           |         Prediction         |
+           +----------------------------+
+           |      0      |       1      |
+       +---|----------------------------|
+       | 0 |    21243    |      1411    |
+ Truth +   |----------------------------|
+       | 1 |     3070    |      4438    |
+       +---+----------------------------+
+
+           TEST DATASET RESULTS
+           Accuracy........: 0.853
+           Precision Score.: 0.758
+           Recall Score....: 0.588
+           F1 Score........: 0.662
+           ROC AUC.........: 0.764
+
+           Confusion Matrix:
+           +----------------------------+
+           |         Prediction         |
+           +----------------------------+
+           |      0      |       1      |
+       +---|----------------------------|
+       | 0 |    10666    |       694    |
+ Truth +   |----------------------------|
+       | 1 |     1524    |      2176    |
+       +---+----------------------------+
+
+RESULTS FOR ADABOOST CLASSIFIER
+-------------------------------
+Best pre-processing option: 4
+Best no of estimators = 10
+Best max tree depth = 6
+
+
+           TRAIN DATASET RESULTS
+           Accuracy........: 0.876
+           Precision Score.: 0.787
+           Recall Score....: 0.689
+           F1 Score........: 0.735
+           ROC AUC.........: 0.814
+
+           Confusion Matrix:
+           +----------------------------+
+           |         Prediction         |
+           +----------------------------+
+           |      0      |       1      |
+       +---|----------------------------|
+       | 0 |    21254    |      1400    |
+ Truth +   |----------------------------|
+       | 1 |     2335    |      5173    |
+       +---+----------------------------+
+
+           TEST DATASET RESULTS
+           Accuracy........: 0.848
+           Precision Score.: 0.725
+           Recall Score....: 0.612
+           F1 Score........: 0.664
+           ROC AUC.........: 0.768
+
+           Confusion Matrix:
+           +----------------------------+
+           |         Prediction         |
+           +----------------------------+
+           |      0      |       1      |
+       +---|----------------------------|
+       | 0 |    10503    |       857    |
+ Truth +   |----------------------------|
+       | 1 |     1437    |      2263    |
+       +---+----------------------------+
+
+RESULTS FOR RANDOM FOREST CLASSIFIER
+------------------------------------
+Best pre-processing option: 4
+Best no of estimators = 50
+Best max tree depth = 12
+
+
+           TRAIN DATASET RESULTS
+           Accuracy........: 0.870
+           Precision Score.: 0.830
+           Recall Score....: 0.602
+           F1 Score........: 0.698
+           ROC AUC.........: 0.781
+
+           Confusion Matrix:
+           +----------------------------+
+           |         Prediction         |
+           +----------------------------+
+           |      0      |       1      |
+       +---|----------------------------|
+       | 0 |    21730    |       924    |
+ Truth +   |----------------------------|
+       | 1 |     2986    |      4522    |
+       +---+----------------------------+
+
+           TEST DATASET RESULTS
+           Accuracy........: 0.856
+           Precision Score.: 0.791
+           Recall Score....: 0.562
+           F1 Score........: 0.657
+           ROC AUC.........: 0.757
+
+           Confusion Matrix:
+           +----------------------------+
+           |         Prediction         |
+           +----------------------------+
+           |      0      |       1      |
+       +---|----------------------------|
+       | 0 |    10811    |       549    |
+ Truth +   |----------------------------|
+       | 1 |     1620    |      2080    |
+       +---+----------------------------+

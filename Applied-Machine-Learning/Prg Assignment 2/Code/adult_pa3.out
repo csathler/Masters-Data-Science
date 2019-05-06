@@ -1,0 +1,294 @@
+
+RESULTS FOR NAIVE BAYES CLASSIFIER
+----------------------------------
+Best pre-processing option: 1
+
+
+           TRAIN DATASET RESULTS
+           Accuracy........: 0.795
+           Precision Score.: 0.578
+           Recall Score....: 0.650
+           F1 Score........: 0.612
+           ROC AUC.........: 0.746
+
+           Confusion Matrix:
+           +----------------------------+
+           |         Prediction         |
+           +----------------------------+
+           |      0      |       1      |
+       +---|----------------------------|
+       | 0 |    19086    |      3568    |
+ Truth +   |----------------------------|
+       | 1 |     2625    |      4883    |
+       +---+----------------------------+
+
+           TEST DATASET RESULTS
+           Accuracy........: 0.796
+           Precision Score.: 0.582
+           Recall Score....: 0.600
+           F1 Score........: 0.591
+           ROC AUC.........: 0.730
+
+           Confusion Matrix:
+           +----------------------------+
+           |         Prediction         |
+           +----------------------------+
+           |      0      |       1      |
+       +---|----------------------------|
+       | 0 |     9767    |      1593    |
+ Truth +   |----------------------------|
+       | 1 |     1479    |      2221    |
+       +---+----------------------------+
+
+RESULTS FOR KNN CLASSIFIER
+--------------------------
+Best pre-processing option: 4
+Best neighbors value = 21
+
+           TRAIN DATASET RESULTS
+           Accuracy........: 0.855
+           Precision Score.: 0.741
+           Recall Score....: 0.642
+           F1 Score........: 0.688
+           ROC AUC.........: 0.784
+
+           Confusion Matrix:
+           +----------------------------+
+           |         Prediction         |
+           +----------------------------+
+           |      0      |       1      |
+       +---|----------------------------|
+       | 0 |    20967    |      1687    |
+ Truth +   |----------------------------|
+       | 1 |     2690    |      4818    |
+       +---+----------------------------+
+
+           TEST DATASET RESULTS
+           Accuracy........: 0.845
+           Precision Score.: 0.712
+           Recall Score....: 0.621
+           F1 Score........: 0.664
+           ROC AUC.........: 0.770
+
+           Confusion Matrix:
+           +----------------------------+
+           |         Prediction         |
+           +----------------------------+
+           |      0      |       1      |
+       +---|----------------------------|
+       | 0 |    10430    |       930    |
+ Truth +   |----------------------------|
+       | 1 |     1401    |      2299    |
+       +---+----------------------------+
+
+RESULTS FOR LOGISTIC REGRESSION CLASSIFIER
+------------------------------------------
+Best pre-processing option: 4
+Best penalty= l1
+Best C value= 1.0
+
+           TRAIN DATASET RESULTS
+           Accuracy........: 0.849
+           Precision Score.: 0.737
+           Recall Score....: 0.611
+           F1 Score........: 0.668
+           ROC AUC.........: 0.770
+
+           Confusion Matrix:
+           +----------------------------+
+           |         Prediction         |
+           +----------------------------+
+           |      0      |       1      |
+       +---|----------------------------|
+       | 0 |    21014    |      1640    |
+ Truth +   |----------------------------|
+       | 1 |     2917    |      4591    |
+       +---+----------------------------+
+
+           TEST DATASET RESULTS
+           Accuracy........: 0.848
+           Precision Score.: 0.731
+           Recall Score....: 0.604
+           F1 Score........: 0.661
+           ROC AUC.........: 0.766
+
+           Confusion Matrix:
+           +----------------------------+
+           |         Prediction         |
+           +----------------------------+
+           |      0      |       1      |
+       +---|----------------------------|
+       | 0 |    10536    |       824    |
+ Truth +   |----------------------------|
+       | 1 |     1465    |      2235    |
+       +---+----------------------------+
+
+RESULTS FOR DECISION TREE CLASSIFIER
+------------------------------------
+Best pre-processing option: 4
+Best tree depth = 12
+
+
+           TRAIN DATASET RESULTS
+           Accuracy........: 0.878
+           Precision Score.: 0.829
+           Recall Score....: 0.643
+           F1 Score........: 0.724
+           ROC AUC.........: 0.799
+
+           Confusion Matrix:
+           +----------------------------+
+           |         Prediction         |
+           +----------------------------+
+           |      0      |       1      |
+       +---|----------------------------|
+       | 0 |    21656    |       998    |
+ Truth +   |----------------------------|
+       | 1 |     2684    |      4824    |
+       +---+----------------------------+
+
+           TEST DATASET RESULTS
+           Accuracy........: 0.847
+           Precision Score.: 0.746
+           Recall Score....: 0.569
+           F1 Score........: 0.646
+           ROC AUC.........: 0.753
+
+           Confusion Matrix:
+           +----------------------------+
+           |         Prediction         |
+           +----------------------------+
+           |      0      |       1      |
+       +---|----------------------------|
+       | 0 |    10643    |       717    |
+ Truth +   |----------------------------|
+       | 1 |     1593    |      2107    |
+       +---+----------------------------+
+
+RESULTS FOR SVM CLASSIFIER
+--------------------------
+Best pre-processing option: 4
+Best C = 1
+
+
+           TRAIN DATASET RESULTS
+           Accuracy........: 0.851
+           Precision Score.: 0.759
+           Recall Score....: 0.591
+           F1 Score........: 0.665
+           ROC AUC.........: 0.764
+
+           Confusion Matrix:
+           +----------------------------+
+           |         Prediction         |
+           +----------------------------+
+           |      0      |       1      |
+       +---|----------------------------|
+       | 0 |    21243    |      1411    |
+ Truth +   |----------------------------|
+       | 1 |     3070    |      4438    |
+       +---+----------------------------+
+
+           TEST DATASET RESULTS
+           Accuracy........: 0.853
+           Precision Score.: 0.758
+           Recall Score....: 0.588
+           F1 Score........: 0.662
+           ROC AUC.........: 0.764
+
+           Confusion Matrix:
+           +----------------------------+
+           |         Prediction         |
+           +----------------------------+
+           |      0      |       1      |
+       +---|----------------------------|
+       | 0 |    10666    |       694    |
+ Truth +   |----------------------------|
+       | 1 |     1524    |      2176    |
+       +---+----------------------------+
+
+RESULTS FOR ADABOOST CLASSIFIER
+-------------------------------
+Best pre-processing option: 4
+Best no of estimators = 10
+Best max tree depth = 6
+
+
+           TRAIN DATASET RESULTS
+           Accuracy........: 0.876
+           Precision Score.: 0.787
+           Recall Score....: 0.689
+           F1 Score........: 0.735
+           ROC AUC.........: 0.814
+
+           Confusion Matrix:
+           +----------------------------+
+           |         Prediction         |
+           +----------------------------+
+           |      0      |       1      |
+       +---|----------------------------|
+       | 0 |    21254    |      1400    |
+ Truth +   |----------------------------|
+       | 1 |     2335    |      5173    |
+       +---+----------------------------+
+
+           TEST DATASET RESULTS
+           Accuracy........: 0.848
+           Precision Score.: 0.726
+           Recall Score....: 0.612
+           F1 Score........: 0.664
+           ROC AUC.........: 0.769
+
+           Confusion Matrix:
+           +----------------------------+
+           |         Prediction         |
+           +----------------------------+
+           |      0      |       1      |
+       +---|----------------------------|
+       | 0 |    10504    |       856    |
+ Truth +   |----------------------------|
+       | 1 |     1434    |      2266    |
+       +---+----------------------------+
+
+RESULTS FOR RANDOM FOREST CLASSIFIER
+------------------------------------
+Best pre-processing option: 2
+Best no of estimators = 10
+Best max tree depth = 12
+
+
+           TRAIN DATASET RESULTS
+           Accuracy........: 0.872
+           Precision Score.: 0.837
+           Recall Score....: 0.601
+           F1 Score........: 0.700
+           ROC AUC.........: 0.781
+
+           Confusion Matrix:
+           +----------------------------+
+           |         Prediction         |
+           +----------------------------+
+           |      0      |       1      |
+       +---|----------------------------|
+       | 0 |    21773    |       881    |
+ Truth +   |----------------------------|
+       | 1 |     2994    |      4514    |
+       +---+----------------------------+
+
+           TEST DATASET RESULTS
+           Accuracy........: 0.832
+           Precision Score.: 0.793
+           Recall Score....: 0.425
+           F1 Score........: 0.554
+           ROC AUC.........: 0.695
+
+           Confusion Matrix:
+           +----------------------------+
+           |         Prediction         |
+           +----------------------------+
+           |      0      |       1      |
+       +---|----------------------------|
+       | 0 |    10950    |       410    |
+ Truth +   |----------------------------|
+       | 1 |     2127    |      1573    |
+       +---+----------------------------+

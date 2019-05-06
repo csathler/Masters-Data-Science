@@ -1,0 +1,320 @@
+
+RESULTS FOR KNN CLASSIFER
+--------------------------
+Best dataset.........: 4
+Best hyper-parameters: Neighbors = 21
+
+
+           TRAIN DATASET RESULTS
+           Accuracy........: 0.855
+           Precision Score.: 0.741
+           Recall Score....: 0.642
+           F1 Score........: 0.688
+
+           Confusion Matrix:
+           +----------------------------+
+           |         Prediction         |
+           +----------------------------+
+           |      0      |       1      |
+       +---|----------------------------|
+       | 0 |    20967    |      1687    |
+ Truth +   |----------------------------|
+       | 1 |     2690    |      4818    |
+       +---+----------------------------+
+
+           TEST DATASET RESULTS
+           Accuracy........: 0.845
+           Precision Score.: 0.712
+           Recall Score....: 0.621
+           F1 Score........: 0.664
+
+           Confusion Matrix:
+           +----------------------------+
+           |         Prediction         |
+           +----------------------------+
+           |      0      |       1      |
+       +---|----------------------------|
+       | 0 |    10430    |       930    |
+ Truth +   |----------------------------|
+       | 1 |     1401    |      2299    |
+       +---+----------------------------+
+
+RESULTS FOR LOGIT CLASSIFER
+----------------------------
+Best dataset.........: 4
+Best hyper-parameters: Penalty = l1; C = 1.0
+
+
+           TRAIN DATASET RESULTS
+           Accuracy........: 0.849
+           Precision Score.: 0.737
+           Recall Score....: 0.611
+           F1 Score........: 0.668
+
+           Confusion Matrix:
+           +----------------------------+
+           |         Prediction         |
+           +----------------------------+
+           |      0      |       1      |
+       +---|----------------------------|
+       | 0 |    21015    |      1639    |
+ Truth +   |----------------------------|
+       | 1 |     2918    |      4590    |
+       +---+----------------------------+
+
+           TEST DATASET RESULTS
+           Accuracy........: 0.848
+           Precision Score.: 0.731
+           Recall Score....: 0.604
+           F1 Score........: 0.661
+
+           Confusion Matrix:
+           +----------------------------+
+           |         Prediction         |
+           +----------------------------+
+           |      0      |       1      |
+       +---|----------------------------|
+       | 0 |    10537    |       823    |
+ Truth +   |----------------------------|
+       | 1 |     1465    |      2235    |
+       +---+----------------------------+
+
+RESULTS FOR SVM CLASSIFER
+--------------------------
+Best dataset.........: 4
+Best hyper-parameters: C = 1
+
+
+           TRAIN DATASET RESULTS
+           Accuracy........: 0.851
+           Precision Score.: 0.759
+           Recall Score....: 0.591
+           F1 Score........: 0.665
+
+           Confusion Matrix:
+           +----------------------------+
+           |         Prediction         |
+           +----------------------------+
+           |      0      |       1      |
+       +---|----------------------------|
+       | 0 |    21243    |      1411    |
+ Truth +   |----------------------------|
+       | 1 |     3070    |      4438    |
+       +---+----------------------------+
+
+           TEST DATASET RESULTS
+           Accuracy........: 0.853
+           Precision Score.: 0.758
+           Recall Score....: 0.588
+           F1 Score........: 0.662
+
+           Confusion Matrix:
+           +----------------------------+
+           |         Prediction         |
+           +----------------------------+
+           |      0      |       1      |
+       +---|----------------------------|
+       | 0 |    10666    |       694    |
+ Truth +   |----------------------------|
+       | 1 |     1524    |      2176    |
+       +---+----------------------------+
+
+RESULTS FOR DECISION TREE CLASSIFER
+------------------------------------
+Best dataset.........: 4
+Best hyper-parameters: Max Tree Depth = 15
+
+
+           TRAIN DATASET RESULTS
+           Accuracy........: 0.900
+           Precision Score.: 0.828
+           Recall Score....: 0.754
+           F1 Score........: 0.789
+
+           Confusion Matrix:
+           +----------------------------+
+           |         Prediction         |
+           +----------------------------+
+           |      0      |       1      |
+       +---|----------------------------|
+       | 0 |    21476    |      1178    |
+ Truth +   |----------------------------|
+       | 1 |     1850    |      5658    |
+       +---+----------------------------+
+
+           TEST DATASET RESULTS
+           Accuracy........: 0.839
+           Precision Score.: 0.691
+           Recall Score....: 0.620
+           F1 Score........: 0.654
+
+           Confusion Matrix:
+           +----------------------------+
+           |         Prediction         |
+           +----------------------------+
+           |      0      |       1      |
+       +---|----------------------------|
+       | 0 |    10336    |      1024    |
+ Truth +   |----------------------------|
+       | 1 |     1406    |      2294    |
+       +---+----------------------------+
+
+RESULTS FOR NAIVE BAYES CLASSIFER
+----------------------------------
+Best dataset.........: 1
+Best hyper-parameters: No hyper-parameter tunning
+
+
+           TRAIN DATASET RESULTS
+           Accuracy........: 0.795
+           Precision Score.: 0.578
+           Recall Score....: 0.650
+           F1 Score........: 0.612
+
+           Confusion Matrix:
+           +----------------------------+
+           |         Prediction         |
+           +----------------------------+
+           |      0      |       1      |
+       +---|----------------------------|
+       | 0 |    19086    |      3568    |
+ Truth +   |----------------------------|
+       | 1 |     2625    |      4883    |
+       +---+----------------------------+
+
+           TEST DATASET RESULTS
+           Accuracy........: 0.796
+           Precision Score.: 0.582
+           Recall Score....: 0.600
+           F1 Score........: 0.591
+
+           Confusion Matrix:
+           +----------------------------+
+           |         Prediction         |
+           +----------------------------+
+           |      0      |       1      |
+       +---|----------------------------|
+       | 0 |     9767    |      1593    |
+ Truth +   |----------------------------|
+       | 1 |     1479    |      2221    |
+       +---+----------------------------+
+
+RESULTS FOR ADABOOST CLASSIFER
+-------------------------------
+Best dataset.........: 2
+Best hyper-parameters: Estimators = 10; Max Tree Depth = 6
+
+
+           TRAIN DATASET RESULTS
+           Accuracy........: 0.877
+           Precision Score.: 0.787
+           Recall Score....: 0.691
+           F1 Score........: 0.736
+
+           Confusion Matrix:
+           +----------------------------+
+           |         Prediction         |
+           +----------------------------+
+           |      0      |       1      |
+       +---|----------------------------|
+       | 0 |    21253    |      1401    |
+ Truth +   |----------------------------|
+       | 1 |     2318    |      5190    |
+       +---+----------------------------+
+
+           TEST DATASET RESULTS
+           Accuracy........: 0.789
+           Precision Score.: 0.641
+           Recall Score....: 0.317
+           F1 Score........: 0.424
+
+           Confusion Matrix:
+           +----------------------------+
+           |         Prediction         |
+           +----------------------------+
+           |      0      |       1      |
+       +---|----------------------------|
+       | 0 |    10703    |       657    |
+ Truth +   |----------------------------|
+       | 1 |     2527    |      1173    |
+       +---+----------------------------+
+
+RESULTS FOR RANDOM ROREST CLASSIFER
+------------------------------------
+Best dataset.........: 4
+Best hyper-parameters: Estimators = 50; Max Tree Depth = 12
+
+
+           TRAIN DATASET RESULTS
+           Accuracy........: 0.869
+           Precision Score.: 0.831
+           Recall Score....: 0.597
+           F1 Score........: 0.695
+
+           Confusion Matrix:
+           +----------------------------+
+           |         Prediction         |
+           +----------------------------+
+           |      0      |       1      |
+       +---|----------------------------|
+       | 0 |    21744    |       910    |
+ Truth +   |----------------------------|
+       | 1 |     3028    |      4480    |
+       +---+----------------------------+
+
+           TEST DATASET RESULTS
+           Accuracy........: 0.856
+           Precision Score.: 0.792
+           Recall Score....: 0.560
+           F1 Score........: 0.656
+
+           Confusion Matrix:
+           +----------------------------+
+           |         Prediction         |
+           +----------------------------+
+           |      0      |       1      |
+       +---|----------------------------|
+       | 0 |    10817    |       543    |
+ Truth +   |----------------------------|
+       | 1 |     1628    |      2072    |
+       +---+----------------------------+
+
+RESULTS FOR ENSEMBLE CLASSIFER
+-------------------------------
+Best dataset.........: -1
+Best hyper-parameters: N/A
+
+
+           TRAIN DATASET RESULTS
+           Accuracy........: 0.867
+           Precision Score.: 0.789
+           Recall Score....: 0.634
+           F1 Score........: 0.703
+
+           Confusion Matrix:
+           +----------------------------+
+           |         Prediction         |
+           +----------------------------+
+           |      0      |       1      |
+       +---|----------------------------|
+       | 0 |    21382    |      1272    |
+ Truth +   |----------------------------|
+       | 1 |     2750    |      4758    |
+       +---+----------------------------+
+
+           TEST DATASET RESULTS
+           Accuracy........: 0.856
+           Precision Score.: 0.773
+           Recall Score....: 0.588
+           F1 Score........: 0.668
+
+           Confusion Matrix:
+           +----------------------------+
+           |         Prediction         |
+           +----------------------------+
+           |      0      |       1      |
+       +---|----------------------------|
+       | 0 |    10721    |       639    |
+ Truth +   |----------------------------|
+       | 1 |     1523    |      2177    |
+       +---+----------------------------+
