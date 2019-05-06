@@ -10,7 +10,7 @@ This repository contains key reports, assignments and code produced as part of m
 | Statistical Analysis for Effective Decision Making | A |
 | Data Science Project Club |  A  |
 | Data Visualization | A+ |
-| Data Science for Drug Discovery and Health Informatics |  A+  |
+| Data Science for Drug Discovery, Health and Translational Medicine |  A+  |
 | Neural Networks for Natural Language Processing | A+ | 
 | Time Series Analysis  | A+ |
 | Nonparametrics and Regression | A |
