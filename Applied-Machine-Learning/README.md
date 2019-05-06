@@ -36,8 +36,8 @@ Comparing the performance of SVM, Random Forest, and Adaboost on the Adult data 
 Prediction income from census data.
 
 [Project Requirements](https://github.com/csathler/Masters-Data-Science/blob/master/Applied-Machine-Learning/Final%20Project/Final%20Project%20Specs.pdf)     
-[Project Report](https://github.com/csathler/Masters-Data-Science/blob/master/Applied-Machine-Learning/Final%20Project/Final%20Project%20Report.pdf)
-[Project Code](https://github.com/csathler/Masters-Data-Science/tree/master/Applied-Machine-Learning/Final%20Project/Code)
+[Project Report](https://github.com/csathler/Masters-Data-Science/blob/master/Applied-Machine-Learning/Final%20Project/Final%20Project%20Report.pdf)     
+[Project Code](https://github.com/csathler/Masters-Data-Science/tree/master/Applied-Machine-Learning/Final%20Project/Code)     
 
 
 
