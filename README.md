@@ -1,5 +1,3 @@
-# MSc. in Data Science
-
 This repository contains key reports, assignments and code produced as part of my work to attain a Master's Degree in Data Science from Indiana University, Bloomington.
 
 | Course  | Grade |
@@ -14,6 +12,7 @@ This repository contains key reports, assignments and code produced as part of m
 | Neural Networks for Natural Language Processing | A+ | 
 | Time Series Analysis  | A+ |
 | Nonparametrics and Regression | A |
+
 
 [MS in Data Science at Indiana University, Bloomington](https://datascience.indiana.edu/programs/ms-data-science-online.html)
 
