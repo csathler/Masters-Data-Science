@@ -1,0 +1,29 @@
+cd $I590TwitterDataset
+function usage
+{
+    echo "Usage: QueryAndUpdate.sh <project configuration file> <db name> <collection name> <query json file> <log file>"
+}
+
+if [ "$5" = "" ];
+then
+    usage;
+    exit 1
+fi
+for i in $(ls lib |grep jar); do
+	CLASSPATH=$CLASSPATH:$I590TwitterDataset/lib/$i
+done
+for j in $(ls build/lib |grep jar); do
+	CLASSPATH=$CLASSPATH:$I590TwitterDataset/build/lib/$j
+done
+#echo $CLASSPATH
+
+echo "The code will exit when the number of geocoding query reaches its daily limit, or all the documents have been updated, or you hit Ctrl+c. When the code is running you can open a new terminal to see live log output using command 'tail -f <log file>'. Hit Ctrl+c to exit live log output."
+
+timestamp=`date +%s%N`
+if [ -f "$5" ]
+then
+	echo "Log file $5 exists. New log file $5$timestamp.txt created."
+	java -classpath $CLASSPATH mongodb.MongoDBOperations $1 $2 $3 $4 >> $5$timestamp.txt
+else
+	java -classpath $CLASSPATH mongodb.MongoDBOperations $1 $2 $3 $4 >> $5	
+fi

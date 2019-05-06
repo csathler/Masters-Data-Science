@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project basedir="." default="all">
+    <property file="build.properties"/>
+	<property environment="env"/>
+	<property name="project.base.dir" value="${project.base.dir}"/>
+	<property name="java.home" value="${java.home}"/>
+	<property name="name" value="i590"/>
+    <property name="src" value="${project.base.dir}/src"/>
+    <property name="test" value="${project.base.dir}/test"/>
+    <property name="build" value="${project.base.dir}/build"/>
+    <property name="classes" value="${build}/classes"/>
+    <property name="lib" value="${build}/lib"/>
+	<property name="templates" value="${project.base.dir}/templates"/>
+	<property name="bin" value="${project.base.dir}/bin"/>
+	<property name="config" value="${project.base.dir}/config"/>
+    <property name="message.conf" value="${config}/config.properties"/>
+	<property name="deploy.command" value="${templates}/deploy.sh"/>
+	<path id="classpath">
+        <fileset dir="${project.base.dir}/lib" includes="**/*.jar"/>
+		<path location="${classes}"/>
+    </path>
+	<target depends="jar.client, deploy" name="all"/>
+	<target name="init">
+        <mkdir dir="${build}"/>
+        <mkdir dir="${classes}"/>
+        <mkdir dir="${lib}"/>
+    </target>
+    <target depends="init" name="compile.src">
+        <javac debug="on" memoryMaximumSize="256m" memoryInitialSize="256m" fork="true" destdir="${classes}" srcdir="${src}">
+           	<classpath>
+        	   <fileset dir="lib">
+        	      <include name="*.jar"/>
+        	   </fileset>	
+        	</classpath>
+        </javac>
+    </target>
+
+    <target name="jar.client" depends="compile.src">
+        <jar destfile="${lib}/${name}.jar" basedir="${classes}">
+        	<manifest>
+                <attribute name="Main-Class" value="mongodb.MongoDBOperations"/>
+            </manifest>
+        </jar>
+    </target>
+	<target name="deploy">
+		<exec executable="${deploy.command}">
+			<arg value="${project.base.dir}"/>
+			<arg value="${java.home}"/>
+		</exec>
+		<copy todir="${bin}">
+		  <fileset dir="${templates}">
+		    <include name="**/*.sh"/>
+		    <exclude name="deploy.sh"/>
+		  </fileset>
+		</copy>
+		<chmod file="${bin}/*.sh" perm="700"/>
+	</target>
+    <target name="clean">
+        <delete dir="${build}"/>
+    	<delete dir="${bin}"/>
+    </target>
+</project>
