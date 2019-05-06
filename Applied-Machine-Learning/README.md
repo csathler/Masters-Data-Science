@@ -1,39 +1,43 @@
-# Course Overview
+# Applied Machine Learning
 
-The Big Data Applications and Analytics course is an overview course in Data Science and covers the applications and technologies (data analytics and clouds) needed to process the application data. It is organized around rallying cry: Use Clouds running Data Analytics Collaboratively processing Big Data to solve problems in X-Informatics.
+The course provided skills to apply machine learning algorithms on real applications. It focused on fewer learning algorithms and less time on math and theory and instead students spent more time on hands-on skills required for algorithms to work on a variety of data sets. 
 
 ## Syllabus
 
-Section  1 - Introduction    
-Section  2 - Overview of Data Science: What is Big Data, Data Analytics and X-Informatics?   
-Section  3 - Health Informatics Case Study   
-Section  4 - Sports Case Study   
-Section  5 - Technology Training - Python & FutureSystems   
-Section  6 - Physics Case Study   
-Section  7 - Big Data Use Cases Survey   
-Section  8 - Technology Training - Plotviz   
-Section  9 - e-Commerce and LifeStyle Case Study    
-Section 10 - Technology Training - kNN & Clustering   
-Section 11 - Cloud Computing Technology for Big Data Applications & Analytics   
-Section 12 - Web Search and Text Mining and their technologies    
-Section 13 - Technology for Big Data Applications and Analytics   
-Section 14 - Sensors Case Study   
-Section 15 - Radar Case Study   
+* Multivariate linear regression
+* Logistic Regression and regularization
+* Practical aspects of regression implementation
+* Decision trees and pruning
+* Practical aspects of decision trees implementation
+* Support vector machines 
+* Boosting - implementing different boosting methods with decision trees
+* Unsupervised learning - k-means, PCA, hierarchical clustering
+* Implementation of clustering algorithms
+* Learning algorithm selection 
 
-## Key Assignments and Projects
+## Project 1
 
-### Course Project 
+Comparing the performance of Logistic Regression, Naïve Bayes, Decision Tree, and Nearest Neighbor on the Adult data set from the [UCI repository](http://archive.ics.uci.edu/ml/datasets/Adult)
 
-[Data Analysis of Interaction Dynamics for Persuasion - Project Proposal](https://github.com/csathler/Masters-Data-Science/blob/master/Big-Data-Apps-and-Analytics/final-project/proposal.pdf)   
-[Data Analysis of Interaction Dynamics for Persuasion - Final Report](https://github.com/csathler/Masters-Data-Science/blob/master/Big-Data-Apps-and-Analytics/final-project/report.pdf)   
-[Project Code](https://github.com/csathler/Masters-Data-Science/tree/master/Big-Data-Apps-and-Analytics/final-project/Code)
+[Project Requirements](https://github.com/csathler/Masters-Data-Science/blob/master/Applied-Machine-Learning/Prg%20Assignment%201/PA%231%20Specs.pdf)   
+[Project Report](https://github.com/csathler/Masters-Data-Science/blob/master/Applied-Machine-Learning/Prg%20Assignment%201/PA%231%20Report.pdf)   
+[Project Code](https://github.com/csathler/Masters-Data-Science/tree/master/Applied-Machine-Learning/Prg%20Assignment%201/Code)
 
-### Short papers
+## Project 2
 
-[What is Big Data](https://github.com/csathler/Masters-Data-Science/blob/master/Big-Data-Apps-and-Analytics/papers/paper1.pdf)   
-[The Role of Big Data in Health Sciences](https://github.com/csathler/Masters-Data-Science/blob/master/Big-Data-Apps-and-Analytics/papers/paper2.pdf)   
-[Applications of Big Data in Sports](https://github.com/csathler/Masters-Data-Science/blob/master/Big-Data-Apps-and-Analytics/papers/paper3.pdf)   
+Comparing the performance of SVM, Random Forest, and Adaboost on the Adult data set from the  the [UCI repository](http://archive.ics.uci.edu/ml/datasets/Adult)
 
-## Course Website
+[Project Requirements](https://github.com/csathler/Masters-Data-Science/blob/master/Applied-Machine-Learning/Prg%20Assignment%202/PA%232%20Specs.pdfa)      
+[Project Report](https://github.com/csathler/Masters-Data-Science/blob/master/Applied-Machine-Learning/Prg%20Assignment%202/PA%232%20Report.pdf)    
+[Project Code](https://github.com/csathler/Masters-Data-Science/tree/master/Applied-Machine-Learning/Prg%20Assignment%202/Code)
 
-https://bdaafall2016.readthedocs.io/en/latest/index.html
+## Final Project
+
+Prediction income from census data.
+
+[Project Requirements](https://github.com/csathler/Masters-Data-Science/blob/master/Applied-Machine-Learning/Final%20Project/Final%20Project%20Specs.pdf)     
+[Project Report](https://github.com/csathler/Masters-Data-Science/blob/master/Applied-Machine-Learning/Final%20Project/Final%20Project%20Report.pdf)
+[Project Code](https://github.com/csathler/Masters-Data-Science/tree/master/Applied-Machine-Learning/Final%20Project/Code)
+
+
+
