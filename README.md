@@ -1,6 +1,6 @@
 # M.S. Data Science
 
-This repository contains key reports, assignments and code produced as part of my work to attain a Master's Degree in Data Science from Indiana University, Bloomington.
+This repository contains key reports, assignments and code produced as part of my work to attain a Master's Degree in Data Science from Indiana University, Bloomington ([transcript]).
 
 | Course  | Grade |
 |---|---|
@@ -9,7 +9,7 @@ This repository contains key reports, assignments and code produced as part of m
 | [Applied Machine Learning](https://github.com/csathler/Masters-Data-Science/tree/master/Applied-Machine-Learning)  |  A  |
 | [Statistical Analysis for Effective Decision Making](https://github.com/csathler/Masters-Data-Science/tree/master/Stats-for-Effective-Decision-Making) | A |
 | [Data Science in Practice](https://github.com/csathler/Masters-Data-Science/tree/master/Data-Science-in-Practice)  |  A  |
-| [Data Visualization[(https://github.com/csathler/Masters-Data-Science/tree/master/Data-Visualization) | A+ |
+| [Data Visualization](https://github.com/csathler/Masters-Data-Science/tree/master/Data-Visualization) | A+ |
 | [Data Science for Drug Discovery, Health and Translational Medicine](https://github.com/csathler/Masters-Data-Science/tree/master/Data-Science-for-Health-Informatics) |  A+  |
 | [Neural Networks for Natural Language Processing](https://github.com/csathler/Masters-Data-Science/tree/master/Neural-Nets-for-NLP) | A+ | 
 | [Time Series Analysis](https://github.com/csathler/Masters-Data-Science/tree/master/Time-Series-Analysis)  | A+ |
