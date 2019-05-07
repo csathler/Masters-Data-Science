@@ -1,6 +1,6 @@
 # Data Science in Practice 
 
-In the Summer of 2017 I joined the IU Bloomington [Data Science Consulting Club](https://github.com/csathler/Masters-Data-Science/blob/master/Data-Science-in-Practice/DSCI%20D590_Data%20Science%20in%20Practice_ONL.PDF) for exposure to real work projects as Independent Study class.  I had the opportunity to contribute in two as a Data Scientist and Project Manager.  Due to NDAs signed at the time little can be disclosed beyond what is included below: 
+In the Summer of 2017 I joined the IU Bloomington [Data Science Consulting Club](https://github.com/csathler/Masters-Data-Science/blob/master/Data-Science-in-Practice/DSCI%20D590_Data%20Science%20in%20Practice_ONL.PDF) for exposure to real work projects as an Independent Study course.  I had the opportunity to contribute to two real world projects as a Data Scientist and Project Manager.  Due to NDAs signed at the time little can be disclosed beyond what is included below: 
 
 ## Company A (startup)
 
