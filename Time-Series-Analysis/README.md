@@ -18,10 +18,11 @@ This course covered time series exploratory data analysis, smoothing, regression
 
 The course offered students the opportunity to take Data Camp classes:
 
-[Introduction to Time Series Analysis]
-[ARIMA Modelling with R]
+[Introduction to Time Series Analysis](https://github.com/csathler/Masters-Data-Science/blob/master/Time-Series-Analysis/Intro%20to%20TS%20Analysis.pdf)   
+[ARIMA Modelling with R](https://github.com/csathler/Masters-Data-Science/blob/master/Time-Series-Analysis/ARIMA%20Modeling%20with%20R.pdf)   
 
 ## Project
 
-[Monthly Unemployment Rate Analysis and Forecast]
+[Monthly Unemployment Rate Analysis and Forecast](https://github.com/csathler/Masters-Data-Science/blob/master/Time-Series-Analysis/Monthly%20Unemployment%20Rate%20Analysis%20and%20Forecast.pdf)     
+[Project Code](https://github.com/csathler/Masters-Data-Science/tree/master/Time-Series-Analysis/Code)
 
