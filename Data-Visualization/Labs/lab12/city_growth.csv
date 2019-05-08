@@ -1,0 +1,1 @@
+Model,MAE ScoreBayesianRidge Regression,23.9639Prediction Based on Monthly Average,26.2524Adaboost (Random Forest),26.7332Gated Recurrent Unit (GRU),31.7981Long Short Term Memory (LSTM),32.4832
