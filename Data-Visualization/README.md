@@ -1,5 +1,7 @@
 # Data Visualization
 
+This course focused on fundamental statistical visualizations and exploratory data analysis, using Python stack and D3.js.  Additionally, the course discussed effectiveness of data visualizations based on the principles of human perception, design, types of data, and visualization techniques.  
+
 ## Syllabus (summary)
 
 * Python visualization tools    
