@@ -3,11 +3,16 @@
 This course discussed principles and technologies to capture, clean, contextualize, store, access, and use data. 
 It covered the follwing main areas:
 
-* Data pipelines in business and science   
-* Distributed systems   
-* SQL, noSQL, and graph databases   
-* Concepts in metadata and data provenance    
-* Concepts in data trust and its role in reuse    
+* Big data in science and business
+* Data pipelines
+* Complexity in software systems
+* Modeling data storage in noSQL stores
+* Data replication
+* Distributed computing
+* Data coding and cleaning
+* Data provenance
+* Data trustworthiness
+* Economies of data sharing
 
 For further details on content please refer to course [syllabus](https://github.com/csathler/Masters-Data-Science/blob/master/Management-Access-Use-of-Big-Data/Syllabus/SyllabusI590-Fall2015-v5.pdf)
 
