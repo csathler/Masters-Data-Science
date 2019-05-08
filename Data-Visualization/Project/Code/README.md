@@ -1,4 +1,4 @@
-# Data Visualization Course Project
+# Course Project Code and Data
 
 ## code folder
 
