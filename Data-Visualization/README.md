@@ -2,17 +2,17 @@
 
 ## Syllabus (summary)
 
-Python visualization tools    
-Introduction to Javascript and D3.js   
-Perception and Design / Psychophysics experiments with Python    
-Fundamental Visualizations I / Data Types and 1-D data    
-Fundamental Visualizations II / Histogram and Boxplot    
-Fundamental Visualizations III / Cumulative plots and sampling    
-Fundamental Visualizations IV / Scale and density estimation    
-Regression / Axes and interactivity   
-High dimensional data   
-Geospatial data and maps    
-Texts and Graphs   
+* Python visualization tools    
+* Introduction to Javascript and D3.js   
+* Perception and Design / Psychophysics experiments with Python    
+* Fundamental Visualizations I / Data Types and 1-D data    
+* Fundamental Visualizations II / Histogram and Boxplot    
+* Fundamental Visualizations III / Cumulative plots and sampling    
+* Fundamental Visualizations IV / Scale and density estimation    
+* Regression / Axes and interactivity   
+* High dimensional data   
+* Geospatial data and maps    
+* Texts and Graphs   
 
 Full syllabus can be seen [here](https://github.com/csathler/Masters-Data-Science/blob/master/Data-Visualization/2017F_dviz_syllabus.pdf)    
 
