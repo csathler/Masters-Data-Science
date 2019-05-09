@@ -28,11 +28,11 @@ Section 15 - Radar Case Study
 [Data Analysis of Interaction Dynamics for Persuasion - Final Report](https://github.com/csathler/Masters-Data-Science/blob/master/Big-Data-Apps-and-Analytics/final-project/report.pdf)   
 [Project Code](https://github.com/csathler/Masters-Data-Science/tree/master/Big-Data-Apps-and-Analytics/final-project/Code)
 
-### Short papers
+### Short papers (sample)
 
-[What is Big Data](https://github.com/csathler/Masters-Data-Science/blob/master/Big-Data-Apps-and-Analytics/papers/paper1.pdf)   
-[The Role of Big Data in Health Sciences](https://github.com/csathler/Masters-Data-Science/blob/master/Big-Data-Apps-and-Analytics/papers/paper2.pdf)   
-[Applications of Big Data in Sports](https://github.com/csathler/Masters-Data-Science/blob/master/Big-Data-Apps-and-Analytics/papers/paper3.pdf)   
+[What is Big Data](https://github.com/csathler/Masters-Data-Science/blob/master/Big-Data-Apps-and-Analytics/sample-short-papers/paper1.pdf)   
+[The Role of Big Data in Health Sciences](https://github.com/csathler/Masters-Data-Science/blob/master/Big-Data-Apps-and-Analytics/sample-short-papers/paper2.pdf)   
+[Applications of Big Data in Sports](https://github.com/csathler/Masters-Data-Science/blob/master/Big-Data-Apps-and-Analytics/sample-short-papers/paper3.pdf)   
 
 ## Course Website
 

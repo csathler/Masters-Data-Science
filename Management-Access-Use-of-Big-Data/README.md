@@ -27,10 +27,10 @@ The links below point to class project requirements and reports:
 
 Most course modules included a "reflection" assignment.  Several of those reflections were submitted in the course online forum, which is no longer available; some were submitted as reports. A sample of those is included below:
 
-[Big Data in Business](https://github.com/csathler/Masters-Data-Science/blob/master/Management-Access-Use-of-Big-Data/Reflections/Big%20Data%20in%20Business.pdf)   
-[Big Data in Science](https://github.com/csathler/Masters-Data-Science/blob/master/Management-Access-Use-of-Big-Data/Reflections/Big%20Data%20in%20Science.pdf)    
-[Data Pipelines in Business](https://github.com/csathler/Masters-Data-Science/blob/master/Management-Access-Use-of-Big-Data/Reflections/Data%20Pipelines%20in%20Business.pdf)    
-[Data Pipelines in Science](https://github.com/csathler/Masters-Data-Science/blob/master/Management-Access-Use-of-Big-Data/Reflections/Big%20Data%20in%20Science.pdf)   
-[Distributed File Systems](https://github.com/csathler/Masters-Data-Science/blob/master/Management-Access-Use-of-Big-Data/Reflections/Distributed%20File%20Systems.pdf)  
+[Big Data in Business](https://github.com/csathler/Masters-Data-Science/blob/master/Management-Access-Use-of-Big-Data/Sample-Reflections/Big%20Data%20in%20Business.pdf)   
+[Big Data in Science](https://github.com/csathler/Masters-Data-Science/blob/master/Management-Access-Use-of-Big-Data/Sample-Reflections/Big%20Data%20in%20Science.pdf)    
+[Data Pipelines in Business](https://github.com/csathler/Masters-Data-Science/blob/master/Management-Access-Use-of-Big-Data/Sample-Reflections/Data%20Pipelines%20in%20Business.pdf)    
+[Data Pipelines in Science](https://github.com/csathler/Masters-Data-Science/blob/master/Management-Access-Use-of-Big-Data/Sample-Reflections/Big%20Data%20in%20Science.pdf)   
+[Distributed File Systems](https://github.com/csathler/Masters-Data-Science/blob/master/Management-Access-Use-of-Big-Data/Sample-Reflections/Distributed%20File%20Systems.pdf)  
 
 

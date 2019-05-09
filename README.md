@@ -1,6 +1,6 @@
 # M.S. Data Science
 
-This repository contains key reports, assignments and code produced as part of my work to attain a Master's Degree in Data Science from Indiana University, Bloomington ([transcript]).
+This repository contains sample reports, assignments and code produced as part of my work to attain a Master's Degree in Data Science from Indiana University, Bloomington ([transcript]).
 
 | Course  | Grade |
 |---|---|
