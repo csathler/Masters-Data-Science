@@ -13,7 +13,7 @@ This course offered an overview of the Healthcare Ecosystem, and discussed the f
 * Applications in Personal Health
 * Project presentations
 
-Full syllabus available [here] and [here].
+Full syllabus available [here](https://github.com/csathler/Masters-Data-Science/blob/master/Data-Science-for-Health-Informatics/DSDHT%20Syllabus%20and%20Calendar_Fall_2017.pdf) and [here](https://github.com/csathler/Masters-Data-Science/blob/master/Data-Science-for-Health-Informatics/Course%20Map%20to%20Modules.pdf).
 
 ## Course Project - Predictive Modeling of Dengue Fever Epidemics: A Neural Network Approach
 
