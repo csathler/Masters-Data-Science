@@ -17,7 +17,17 @@ Full syllabus available [here] and [here].
 
 ## Course Project - Predictive Modeling of Dengue Fever Epidemics: A Neural Network Approach
 
-[Project proposal]()    
-[Project report]()     
-[Project poster]()       
-[Project code]()     
+[Project proposal](https://github.com/csathler/Masters-Data-Science/blob/master/Data-Science-for-Health-Informatics/project/docs/proposal.pdf)    
+[Project report](https://github.com/csathler/Masters-Data-Science/blob/master/Data-Science-for-Health-Informatics/project/docs/report.pdf)     
+[Project poster](https://github.com/csathler/Masters-Data-Science/blob/master/Data-Science-for-Health-Informatics/project/docs/poster.pdf)       
+[Project code](https://github.com/csathler/Masters-Data-Science/tree/master/Data-Science-for-Health-Informatics/project/code)    
+
+## Sample Assignments
+
+[Tableau exercise 1](https://github.com/csathler/Masters-Data-Science/blob/master/Data-Science-for-Health-Informatics/sample-assignments/tableau%20exercise%201.pdf)    
+[Tableau exercise 2](https://github.com/csathler/Masters-Data-Science/blob/master/Data-Science-for-Health-Informatics/sample-assignments/tableau%20exercise%202.pdf)    
+[Bioinformatics and medicine](https://github.com/csathler/Masters-Data-Science/blob/master/Data-Science-for-Health-Informatics/sample-assignments/bioinformatics%20and%20medicine.pdf)    
+[Chemoinformatics](https://github.com/csathler/Masters-Data-Science/blob/master/Data-Science-for-Health-Informatics/sample-assignments/chemoinformatics.pdf)    
+[Clinical data analysis](https://github.com/csathler/Masters-Data-Science/blob/master/Data-Science-for-Health-Informatics/sample-assignments/clinical%20data%20analysis.pdf)    
+[Drug discovery economics](https://github.com/csathler/Masters-Data-Science/blob/master/Data-Science-for-Health-Informatics/sample-assignments/drug%20discovery%20economics.pdf)    
+[Ontologies](https://github.com/csathler/Masters-Data-Science/blob/master/Data-Science-for-Health-Informatics/sample-assignments/ontologies.pdf)    
