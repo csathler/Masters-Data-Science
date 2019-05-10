@@ -14,7 +14,7 @@ This course focused on how to apply machine learning and particularly deep learn
 * Convolutional Neural Networks, Sentence Classification    
 * General topics: ML, Speech Recognition, Dynamic Memory Networks    
 
-Full syllabus [here]()
+Full syllabus [here](https://github.com/csathler/Masters-Data-Science/blob/master/Neural-Nets-for-NLP/Syllabus.pdf)
 
 ## Course Project - Joint Sentence Classification of Medical Paper Abstracts with Neural Networks and Syntactic Features
 
