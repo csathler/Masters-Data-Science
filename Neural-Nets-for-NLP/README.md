@@ -1,12 +1,11 @@
 # Neural Networks for Natural Language Processing
 
-This course focused on how to apply machine learning and particularly deep learning algorithms to solve problems in Computational Linguistics and Natural Language Processing.  Among other topics, the course covered word vector representations, window-based neural networks, recurrent neural nets, long-short-term-memory models, recursive neural nets, and CNN. 
+This course focused on how to apply machine learning and particularly deep learning algorithms to solve problems in Computational Linguistics and Natural Language Processing.    
 
 ## Syllabus
 
 * Intro do Computational Linguistics and NLP    
-* NLTK, WordNet, spaCy, TensorFlow, Keras    
-* Vectorization and Word2vec    
+* NLTK, WordNet, spaCy, TensorFlow, Keras, vectorization and Word2vec    
 * Word Window Classification and Neural Networks    
 * Backpropagation, gradients, overfitting, activation function    
 * Recurrent Neural Networks and Language Models    
@@ -23,7 +22,6 @@ Full syllabus [here]()
 [Project Presentation](https://github.com/csathler/Masters-Data-Science/blob/master/Neural-Nets-for-NLP/project/Project%20Presentation.pdf)          
 [Presentation Video](https://youtu.be/8YrjDDcngJc)        
 [Project Code](https://github.com/csathler/Masters-Data-Science/tree/master/Neural-Nets-for-NLP/project/code)      
-
 
 ## Assignments
 
