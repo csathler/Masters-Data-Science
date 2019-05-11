@@ -22,7 +22,7 @@ Full syllabus [here](https://github.com/csathler/Masters-Data-Science/blob/maste
 
 ## Assignments
 
-The class had six homework assignments, most of which included SAS exercises.  To showcase the size and level of rigor required for homeworks, I'm including one homework herein.  Additionally, I'm including the final.  In both cases I received full credit.
+The class had six homework assignments, most of which included SAS exercises.  To showcase the size and level of rigor required for homeworks, I'm including one homework herein.
 
 [Homework 3](https://github.com/csathler/Masters-Data-Science/blob/master/Stats-for-Effective-Decision-Making/V506%20SP17%20HW3%20v4.pdf)    
-[Final](https://github.com/csathler/Masters-Data-Science/blob/master/Stats-for-Effective-Decision-Making/V506%20Final%20Exam_2017%20Carlos%20Sathler.pdf)    
+  
