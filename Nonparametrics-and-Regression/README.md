@@ -1,28 +1,21 @@
-# Statistics for Effective Decision Making
+# Nonparametrics and regression 
 
-This course provided graduate-level instruction in the application of statistical analysis to issues in public and environmental affairs and related fields. 
-It covered theory and methods for statistical analysis and the application of statistics to real world data.  
+This course offered a survey of statistical methods that do not rely on parametric assumptions. The course started with a discussion of parametric techniques learned in typical introductory courses, and compared them to nonparametric alternatives to see when one technique outperforms another.
 
 ## Syllabus
 
-* Introduction to SAS
-* Frequency distributions, sampling and measurement
-* Descriptive statistics
-* Probability distributions and random variables
-* Binomial and normal distributions
-* Sampling distributions and Central Limit Theorem
-* Statistical inference – estimation, single sample, two-sample hypothesis testing
-* Chi-square distribution, Contingency Table Analysis and the F-Distribution
-* Bivariate linear regression and correlation
-* Multivariate regression – Assumptions, estimation, strength of relationship, inference
-* Multivariate regression – Dummy variables, interaction terms and variable transformations
-* Multivariate regression – Research applications
+* EDA and review of parametric stats 
+* Nonparametric tests
+* Empirical distributions and the bootstrap
+* Multiple linear regression
+* Nonparametric and penalized regression
+* GLMs and other advanced models
 
-Full syllabus [here](https://github.com/csathler/Masters-Data-Science/blob/master/Stats-for-Effective-Decision-Making/V506%20Connect%20Syllabus%20Spring%202017_V4.pdf) 
+Full syllabus [here](https://github.com/csathler/Masters-Data-Science/blob/master/Nonparametrics-and-Regression/STAT-S681-Intro-to-Regression-Models-ONL-spring-2019.pdf)
 
-## Assignments
+## Assignments and projects
 
-The class had six homework assignments, most of which included SAS exercises.  To showcase the size and level of rigor required for homeworks, I'm including one homework herein.  Additionally, I'm including the final.  In both cases I received full credit.
+The class had six homework assignments and three short projects.  I selected 4 assignments and 2 project problems to showcase the work done in the course.  I received full credit or close to it in these selected assignments.
 
-[Homework 3](https://github.com/csathler/Masters-Data-Science/blob/master/Stats-for-Effective-Decision-Making/V506%20SP17%20HW3%20v4.pdf)    
-[Final](https://github.com/csathler/Masters-Data-Science/blob/master/Stats-for-Effective-Decision-Making/V506%20Final%20Exam_2017%20Carlos%20Sathler.pdf)    
+[Sample Assignments](https://github.com/csathler/Masters-Data-Science/tree/master/Nonparametrics-and-Regression/sample-assignments)
+[Sample Project Problems](https://github.com/csathler/Masters-Data-Science/tree/master/Nonparametrics-and-Regression/sample-mini-projects)
